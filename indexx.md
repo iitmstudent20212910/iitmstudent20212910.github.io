@@ -4,7 +4,7 @@ Hello Everyone!! I am Yukti Sharma , an engineering freshman and an aspiring dat
 
 ### EDUCATION 
 
-- Currently a 1st year student,pursuing B.tech from JIIT University,Noida. 
-- Foundational level ,IIT Madras B.Sc degree programme 
+📕 [B.Tech , Computer science]() at JIIT university, Noida (Oct 2021-Current)
+📘 B.Sc Programming and Data science , IIT Madras in Foundational Level (current) 
 
 ### EXPERIENCES 
