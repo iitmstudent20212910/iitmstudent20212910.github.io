@@ -1,4 +1,4 @@
-
+![](/images/image.jpg)
 # Yukti Sharma's PORTFOLIO 
 ### ABOUT ME 
 Hello Everyone!! I am Yukti Sharma , an engineering freshman and an aspiring data scientist. 
